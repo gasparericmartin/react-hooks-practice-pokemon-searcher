@@ -1340,6 +1340,42 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "id": 151,
+      "name": "Ziggle",
+      "hp": "58",
+      "sprites": {
+        "front": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.1mGWvrYNMGqWbqOe0RwrPQHaGy%26pid%3DApi&f=1&ipt=759689a46abda723a6e29b4bfc79e4c14b3dee38e557748353293c7b27963ab6&ipo=images",
+        "back": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.FX2csi878b6Ro50Vrfa5hgAAAA%26pid%3DApi&f=1&ipt=7b68b0c80d06583d0288a837535faad33d32fd2118d41bc939e6084d4a31bec7&ipo=images"
+      }
+    },
+    {
+      "id": 152,
+      "name": "Baby",
+      "hp": "48",
+      "sprites": {
+        "front": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.1mGWvrYNMGqWbqOe0RwrPQHaGy%26pid%3DApi&f=1&ipt=759689a46abda723a6e29b4bfc79e4c14b3dee38e557748353293c7b27963ab6&ipo=images",
+        "back": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.FX2csi878b6Ro50Vrfa5hgAAAA%26pid%3DApi&f=1&ipt=7b68b0c80d06583d0288a837535faad33d32fd2118d41bc939e6084d4a31bec7&ipo=images"
+      }
+    },
+    {
+      "id": 153,
+      "name": "test name",
+      "hp": "45",
+      "sprites": {
+        "front": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.1mGWvrYNMGqWbqOe0RwrPQHaGy%26pid%3DApi&f=1&ipt=759689a46abda723a6e29b4bfc79e4c14b3dee38e557748353293c7b27963ab6&ipo=images",
+        "back": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.FX2csi878b6Ro50Vrfa5hgAAAA%26pid%3DApi&f=1&ipt=7b68b0c80d06583d0288a837535faad33d32fd2118d41bc939e6084d4a31bec7&ipo=images"
+      }
+    },
+    {
+      "id": 154,
+      "name": "Baby",
+      "hp": "45",
+      "sprites": {
+        "front": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.1mGWvrYNMGqWbqOe0RwrPQHaGy%26pid%3DApi&f=1&ipt=759689a46abda723a6e29b4bfc79e4c14b3dee38e557748353293c7b27963ab6&ipo=images",
+        "back": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.FX2csi878b6Ro50Vrfa5hgAAAA%26pid%3DApi&f=1&ipt=7b68b0c80d06583d0288a837535faad33d32fd2118d41bc939e6084d4a31bec7&ipo=images"
+      }
     }
   ]
 }
